@@ -1,0 +1,5 @@
+requests
+datetime
+pandas
+google-cloud-storage
+google-cloud-error-reporting==1.2.2
